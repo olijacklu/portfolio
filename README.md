@@ -3,8 +3,8 @@
 #### Technical Skills: Python, R, Java, SQL
 
 ## Education
-- MSc Data Science	| University of Luxembourg (_2023-Present_)	 			        		
-- BS Mathematics | University of Luxembourg (_2020-2023_)
+- MSc Data Science	| University of Luxembourg (_2023 - Present_)	 			        		
+- BS Mathematics | University of Luxembourg (_2020 - 2023_)
 
 ## Work Experience
 **Digital Assets Research Intern - Cambridge Centre for Alternative Finance, Cambridge Judge Business School (_July 2023 - Present_)**
@@ -15,7 +15,7 @@
 **Private Tutor - University of Luxembourg (_September 2021 - July 2022_)**
 - private tutor for the University of Luxembourg, helping Bachelor students in mathematics & statistics
 
-**Student Intern - DataThings  (July 2021 - August 2021_)**
+**Student Intern - DataThings  (_July 2021 - August 2021_)**
 - developed a user-friendly website using the latest technologies to meet client goals
 - led a comprehensive rebranding effort, refreshing the online presence to align with the company's vision, enhancing brand recognition and engagement
 
