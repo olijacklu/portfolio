@@ -39,3 +39,8 @@ Finally, some advanced analytical methods, such as shooting density estimation a
 On a personal note, I was able to get a first insight into collecting, manipulating and interpreting large sets of data, while doing research on a topic I thoroughly enjoy. Not only could I apply my previous Sports and Statistics knowledge to the research, I also learned several new data analysis techniques, such as PCA and MDS, which will undoubtedly be useful to me in the near future.
 
 ![Spatial density estimation of Stephen Curry’s shooting performance in 2017-2018](/images/shot_chart.png)
+
+### Website Development
+[DataThings](https://datathings.com/)
+
+I played a key role in designing and developing a user-friendly website, with the help of an efficient CMS, to enhance the online presence of an up-and-coming data science startup company, "DataThings".
