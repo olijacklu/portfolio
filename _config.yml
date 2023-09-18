@@ -1,5 +1,5 @@
 title: Oliver Jack
-logo: /assets/img/headshot_circle.png
+logo: /images/profile_pic.jpg
 description: MSc Data Science - University of Luxembourg
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
