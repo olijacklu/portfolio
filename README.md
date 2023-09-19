@@ -1,4 +1,4 @@
-# MSc Data Science
+# Portfolio
 
 #### Technical Skills: Python, R, Java, SQL
 
