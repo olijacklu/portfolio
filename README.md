@@ -3,7 +3,8 @@
 #### Technical Skills: Python, R, Java, SQL
 
 ## Education
-- MSc Data Science	| University of Luxembourg (_2023 - Present_)	 			        		
+- MSc Data Science | University of Luxembourg (_2023 - Present_)
+- Engineering Curriculum (Exchange semester) | CentraleSupélec (_2022 - 2023_)
 - BS Mathematics | University of Luxembourg (_2020 - 2023_)
 
 ## Work Experience
