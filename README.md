@@ -45,3 +45,7 @@ On a personal note, I was able to get a first insight into collecting, manipulat
 [DataThings](https://datathings.com/)
 
 I played a key role in designing and developing a user-friendly website, with the help of an efficient CMS, to enhance the online presence of an up-and-coming data science startup company, "DataThings".
+
+[Basics & Bespoke](https://basicsbespoke.lu/)
+
+I designed and developed the website of a well-known Luxembourgish tailor, primarily using Wordpress. The project allowed me to work on my creativity, as well as my software skills.
