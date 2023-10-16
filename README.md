@@ -48,4 +48,4 @@ I played a key role in designing and developing a user-friendly website, with th
 
 [Basics & Bespoke](https://basicsbespoke.lu/)
 
-I designed and developed the website of a well-known Luxembourgish tailor, primarily using Wordpress. The project allowed me to work on my creativity, as well as my software skills.
+I designed and developed the website of a well-known Luxembourgish tailor "Basics & Bespoke", primarily using Wordpress. The project allowed me to work on my creativity, as well as my software skills.
